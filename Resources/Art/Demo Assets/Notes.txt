@@ -1,0 +1,15 @@
+Hi Bike,
+
+I'm just leaving you this memo before I sign off for the night. This is probably a good habit to get into.
+
+LOVE_attack was just a last-minute thought. Maybe it could be a projectile firing animation?
+LOVE_jump is the initial animation for starting a jump in game. You should probably just omit this in favor of using just LOVE_fall for jumping.
+LOVE_fall is how the character appears while falling.
+
+It's probably a good idea to just continue this thread in the same .txt. Other discussions can have their own threads. 
+Separate posts in here with 10 ='s.
+That seems like it could work. If you've got other ideas for logging our progress this way, lemme know son.
+Sound good? 
+
+Jabocus
+==========
